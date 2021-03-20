@@ -18,7 +18,7 @@ filelock==3.0.10
 flake8==3.6.0
 future==0.17.1
 idna==2.7
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 jsondiff==1.1.1
 jsonpickle==1.0
